@@ -15,3 +15,6 @@ Load up the server:
 ```bash
 make watch
 ```
+
+View in browser:
+```http://localhost:8080/graphiql.```
